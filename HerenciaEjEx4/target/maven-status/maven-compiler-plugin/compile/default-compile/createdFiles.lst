@@ -1,0 +1,12 @@
+Enums\Materias.class
+Entidades\Profesor.class
+Entidades\Persona.class
+Enums\Apellidos.class
+Enums\Estado_Civil.class
+Enums\Sectores.class
+Entidades\PersonalDeServicio.class
+Entidades\Empleado.class
+SistemaGestiónFacultad\SistemaFacultad.class
+Enums\Nombres.class
+Entidades\Estudiante.class
+Service\FacultadService.class

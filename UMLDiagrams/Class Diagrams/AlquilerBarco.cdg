@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="AlquilerBarco">
+  <ClassDiagramComponents>
+    <Class name="Barco" package="" visibility="protected" xPosition="397.0" yPosition="36.0">
+      <Fields>
+        <Field name="eslora" type="int" visibility="protected"/>
+        <Field name="matricula" type="int" visibility="protected"/>
+        <Field name="anioDeFabricacion" type="int" visibility="protected"/>
+        <Field name="untitledField" type="Object" visibility="private"/>
+        <Field name="untitledField1" type="Object" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="Barco" returnType="void" visibility="public">
+          <Argument type="int" name="eslora"/>
+          <Argument type="int" name="matricula"/>
+          <Argument type="int" name="anioDeFabricacion"/>
+        </Method>
+        <Method name="untitledMethod" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="velero" package="" visibility="public" xPosition="515.0" yPosition="266.0">
+      <Fields/>
+      <Constructors/>
+      <Methods/>
+    </Class>
+    <Class name="BarcoMotor" package="" visibility="public" xPosition="673.0" yPosition="117.0">
+      <Fields>
+        <Field name="untitledField" type="Object" visibility="private"/>
+        <Field name="untitledField1" type="Object" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+    <Class name="YateDeLujo" package="" visibility="public" xPosition="145.0" yPosition="266.0">
+      <Fields/>
+      <Constructors/>
+      <Methods/>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
